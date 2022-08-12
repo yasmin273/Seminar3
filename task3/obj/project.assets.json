@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj",
-      "projectName": "Seminar3",
-      "projectPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj",
+      "projectUniqueName": "C:\\Users\\Bender\\Desktop\\Seminar3\\task3\\task3.csproj",
+      "projectName": "task3",
+      "projectPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task3\\task3.csproj",
       "packagesPath": "C:\\Users\\Bender\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\obj\\",
+      "outputPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bender\\AppData\\Roaming\\NuGet\\NuGet.Config"

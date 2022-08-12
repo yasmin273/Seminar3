@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj": {}
+    "C:\\Users\\Bender\\Desktop\\Seminar3\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj": {
+    "C:\\Users\\Bender\\Desktop\\Seminar3\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj",
-        "projectName": "Seminar3",
-        "projectPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\Seminar3.csproj",
+        "projectUniqueName": "C:\\Users\\Bender\\Desktop\\Seminar3\\task2\\task2.csproj",
+        "projectName": "task2",
+        "projectPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Bender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Bender\\Desktop\\Seminar3\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bender\\AppData\\Roaming\\NuGet\\NuGet.Config"
